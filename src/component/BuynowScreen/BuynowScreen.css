@@ -1,0 +1,27 @@
+.heading{
+    font-size: 30px;
+    text-align: center;
+
+}
+.image{
+    max-width: 300px;
+    margin: auto;
+}
+.link-buynow{
+    text-align: center;
+    margin: 20px;
+}
+.link-buynow a{
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid;
+    background-color:black;
+    border-radius:5px;
+    color:white;
+    margin: 10px;
+    padding: 20px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+.link-buynow a:hover{
+    color:#f7a440;
+}
