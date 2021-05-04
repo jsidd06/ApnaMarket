@@ -19,67 +19,67 @@ function MenScreen() {
         <div className="container">
        <img src={menscreen1} alt="Avatar" className="image-menscreen" />
        <div className="overlay">
-         <div className="text"><Link to="/buynow">menscreen</Link></div>
+         <div className="text"><Link to="/buynow">BuyNow</Link></div>
        </div>
      </div>
      <div className="container">
        <img src={menscreen2} alt="Avatar" className="image-menscreen" />
        <div className="overlay">
-         <div className="text"><Link to="/buynow">menscreen</Link></div>
+         <div className="text"><Link to="/buynow">BuyNow</Link></div>
        </div>
      </div>
      <div className="container">
        <img src={menscreen3} alt="Avatar" className="image-menscreen" />
        <div className="overlay">
-         <div className="text"><Link to="/buynow">menscreen</Link></div>
+         <div className="text"><Link to="/buynow">BuyNow</Link></div>
        </div>
      </div>
      <div className="container">
        <img src={menscreen4} alt="Avatar" className="image-menscreen" />
        <div className="overlay">
-         <div className="text"><Link to="/buynow">menscreen</Link></div>
+         <div className="text"><Link to="/buynow">BuyNow</Link></div>
        </div>
      </div>
      <div className="container">
        <img src={menscreen5} alt="Avatar" className="image-menscreen" />
        <div className="overlay">
-         <div className="text"><Link to="/buynow">menscreen</Link></div>
+         <div className="text"><Link to="/buynow">BuyNow</Link></div>
        </div>
      </div>
      <div className="container">
        <img src={menscreen6} alt="Avatar" className="image-menscreen" />
        <div className="overlay">
-         <div className="text"><Link to="/buynow">menscreen</Link></div>
+         <div className="text"><Link to="/buynow">BuyNow</Link></div>
        </div>
      </div>
      <div className="container">
        <img src={menscreen7} alt="Avatar" className="image-menscreen" />
        <div className="overlay">
-         <div className="text"><Link to="/buynow">menscreen</Link></div>
+         <div className="text"><Link to="/buynow">BuyNow</Link></div>
        </div>
      </div>
      <div className="container">
        <img src={menscreen8} alt="Avatar" className="image-menscreen" />
        <div className="overlay">
-         <div className="text"><Link to="/buynow">menscreen</Link></div>
+         <div className="text"><Link to="/buynow">BuyNow</Link></div>
        </div>
      </div>
      <div className="container">
        <img src={menscreen9} alt="Avatar" className="image-menscreen" />
        <div className="overlay">
-         <div className="text"><Link to="/buynow">menscreen</Link></div>
+         <div className="text"><Link to="/buynow">BuyNow</Link></div>
        </div>
      </div>
      <div className="container">
        <img src={menscreen10} alt="Avatar" className="image-menscreen" />
        <div className="overlay">
-         <div className="text"><Link to="/buynow">menscreen</Link></div>
+         <div className="text"><Link to="/buynow">BuyNow</Link></div>
        </div>
      </div>
      <div className="container">
        <img src={menscreen11} alt="Avatar" className="image-menscreen" />
        <div className="overlay">
-         <div className="text"><Link to="/buynow">menscreen</Link></div>
+         <div className="text"><Link to="/buynow">BuyNow</Link></div>
        </div>
      </div>
         </div>
