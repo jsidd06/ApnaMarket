@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ApnaMarket/static/css/main.b81b1225.chunk.css",
-    "main.js": "/ApnaMarket/static/js/main.bd2899c8.chunk.js",
-    "main.js.map": "/ApnaMarket/static/js/main.bd2899c8.chunk.js.map",
+    "main.js": "/ApnaMarket/static/js/main.9418dcd9.chunk.js",
+    "main.js.map": "/ApnaMarket/static/js/main.9418dcd9.chunk.js.map",
     "runtime-main.js": "/ApnaMarket/static/js/runtime-main.9df4b139.js",
     "runtime-main.js.map": "/ApnaMarket/static/js/runtime-main.9df4b139.js.map",
     "static/js/2.80ace485.chunk.js": "/ApnaMarket/static/js/2.80ace485.chunk.js",
@@ -102,6 +102,6 @@
     "static/js/runtime-main.9df4b139.js",
     "static/js/2.80ace485.chunk.js",
     "static/css/main.b81b1225.chunk.css",
-    "static/js/main.bd2899c8.chunk.js"
+    "static/js/main.9418dcd9.chunk.js"
   ]
 }
